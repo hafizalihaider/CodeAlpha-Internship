@@ -2,52 +2,66 @@
 
 Welcome to my **CodeAlpha Python Programming Internship** repository!
 
-This repository contains all the projects and tasks I completed during my internship. Each project demonstrates practical Python programming concepts through real-world applications, helping me strengthen my problem-solving skills and gain hands-on experience with software development.
+This repository contains all the projects I completed during my **CodeAlpha Python Programming Internship**, where I strengthened my Python programming fundamentals by developing practical, real-world applications.
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 About Me
 
-**Muhammad Ali Haider**
+Hi! I'm **Muhammad Ali Haider**, a Mechatronics Engineering student passionate about:
 
-* Python Programmer
-* Mechatronics Engineering Student
-* Passionate about Automation, Artificial Intelligence, Cybersecurity, and Software Development.
+- 🤖 Artificial Intelligence
+- 🐍 Python Programming
+- ⚙️ Automation
+- 🛡️ Cybersecurity
+- 💻 Software Development
+
+This internship provided an excellent opportunity to enhance my programming logic, problem-solving abilities, and software development practices.
 
 ---
 
 # 📚 Internship Overview
 
-During this internship, I worked on multiple Python projects covering different areas of programming, including:
+Throughout this internship, I worked on projects involving:
 
-* Python Fundamentals
-* File Handling
-* Object-Oriented Programming
-* Regular Expressions (Regex)
-* Automation Scripts
-* HTTP Requests
-* Functions
-* Loops
-* Conditional Statements
-* User Interaction
-* Problem Solving
-
-Each project was developed with clean, well-documented code and professional project documentation.
+- Python Fundamentals
+- Functions
+- Loops
+- Conditional Statements
+- File Handling
+- Dictionaries
+- Regular Expressions (Regex)
+- HTTP Requests
+- Automation Scripts
+- User Interaction
+- Git & GitHub
 
 ---
 
 # 📂 Repository Structure
 
-```
-CodeAlpha-Internship
+```text
+Code Alpha
 │
-├── Project-1-Hangman-Game
+├── 📁 Project-1-Hangman-Game
+│   ├── Hangman-Game.py
+│   └── README.md
 │
-├── Project-2-Stock-Portfolio-Tracker
+├── 📁 Project-2-Stock-Portfolio-Tracker
+│   ├── Stock-Portfolio-Tracker.py
+│   ├── Stock-Portfolio-Tracker.txt
+│   └── README.md
 │
-├── Project-3- Task-Automation-with-Python-Scripts
+├── 📁 Project-3-Task-Automation-With-Python-Scripts
+│   │
+│   ├── 📁 Task-1-JPG-File-Organizer
+│   ├── 📁 Task-2-Email-Extractor
+│   ├── 📁 Task-3-Web-Title-Scraper
+│   └── README.md
 │
-├── Project-4- Basic-Chatbot
+├── 📁 Project-4-Basic-Chatbot
+│   ├── basic-chatbot.py
+│   └── README.md
 │
 └── README.md
 ```
@@ -56,154 +70,192 @@ CodeAlpha-Internship
 
 # 🚀 Projects
 
-## 📊 Project 1 – Student Grade Tracker
-
-A Python application that manages student marks and calculates grades automatically.
-
-### Concepts Covered
-
-* Variables
-* Loops
-* Conditional Statements
-* Lists
-* Functions
-* User Input
+| Project | Description | Status |
+|---------|-------------|:------:|
+| 🎮 Project 1 – Hangman Game | A console-based word guessing game developed using Python. | ✅ |
+| 💼 Project 2 – Stock Portfolio Tracker | Calculates the total value of a user's stock portfolio. | ✅ |
+| ⚙️ Project 3 – Task Automation with Python Scripts | Three automation scripts for organizing files, extracting emails, and scraping website titles. | ✅ |
+| 🤖 Project 4 – Basic Chatbot | A rule-based chatbot using Python fundamentals. | ✅ |
 
 ---
 
-## 💼 Project 2 – Stock Portfolio Tracker
+# 📖 Project Details
 
-A command-line application that helps users manage a stock portfolio and calculate its total value.
+## 🎮 Project 1 — Hangman Game
 
-### Concepts Covered
-
-* Dictionaries
-* Loops
-* User Input
-* Conditional Statements
-* Functions
-
----
-
-## ⚙️ Project 3 – Task Automation with Python Scripts
-
-This project contains three automation scripts.
-
-### 📂 Task 1 – JPG File Organizer
-
-Automatically detects all JPG images inside a folder and moves them into a dedicated **JPG Files** directory.
-
-**Concepts Used**
-
-* File Handling
-* os Module
-* shutil Module
-
----
-
-### 📧 Task 2 – Email Address Extractor
-
-Reads a text file, extracts valid email addresses using Regular Expressions (Regex), and saves them into a formatted report.
-
-**Concepts Used**
-
-* Regular Expressions
-* File Handling
-* Loops
-
----
-
-### 🌐 Task 3 – Website Title Extractor
-
-Fetches the HTML source code of a webpage, extracts the website title using Regex, and generates a professional report.
-
-**Concepts Used**
-
-* requests Library
-* Regular Expressions
-* File Handling
-
----
-
-## 🤖 Project 4 – Basic Chatbot
-
-A rule-based chatbot that responds to predefined user messages through a simple command-line interface.
-
-### Features
-
-* Greeting responses
-* Simple conversation
-* Multiple command support
-* Exit command
+A classic command-line Hangman game where players guess a hidden word one letter at a time.
 
 ### Concepts Used
 
-* Functions
-* Loops
-* Conditional Statements
-* User Input
-* String Methods
+- Variables
+- Lists
+- Strings
+- Loops
+- Conditional Statements
+- Functions
+- Random Module
+- User Input
 
 ---
 
-# 🛠️ Technologies Used
+## 💼 Project 2 — Stock Portfolio Tracker
 
-* Python 3.14.6
-* Visual Studio Code 1.131.0
-* Git
-* GitHub
+A command-line application that calculates the total value of a stock portfolio using predefined stock prices.
 
----
+### Concepts Used
 
-# 📖 Skills Developed
-
-Throughout this internship, I strengthened my understanding of:
-
-* Python Programming
-* Automation
-* File Management
-* Regular Expressions (Regex)
-* HTTP Requests
-* Problem Solving
-* Code Organization
-* Software Development Best Practices
-* Git & GitHub Version Control
+- Dictionaries
+- Functions
+- Loops
+- User Input
+- Conditional Statements
 
 ---
 
-# 🎯 Internship Objective
+## ⚙️ Project 3 — Task Automation with Python Scripts
 
-The primary goal of this internship was to gain practical programming experience by developing real-world Python applications while improving coding standards, logical thinking, and software engineering practices.
+### 📂 Task 1 — JPG File Organizer
 
----
+Automatically detects and moves JPG files into a dedicated folder.
 
-# 📌 Future Improvements
+**Concepts Used**
 
-I plan to continue expanding this repository by adding more advanced Python projects involving:
-
-* Artificial Intelligence
-* Machine Learning
-* Cybersecurity
-* APIs
-* GUI Applications
-* Automation Tools
-* Data Analysis
+- File Handling
+- os Module
+- shutil Module
 
 ---
 
-# ⭐ Connect With Me
+### 📧 Task 2 — Email Extractor
 
-If you found these projects helpful or interesting, feel free to:
+Reads a text file, extracts valid email addresses using Regular Expressions (Regex), and saves them into a report.
+
+**Concepts Used**
+
+- Regular Expressions (Regex)
+- File Handling
+
+---
+
+### 🌐 Task 3 — Website Title Scraper
+
+Fetches a webpage using HTTP requests, extracts the HTML title using Regex, and generates a formatted report.
+
+**Concepts Used**
+
+- requests Module
+- Regular Expressions
+- HTTP Requests
+- File Handling
+
+---
+
+## 🤖 Project 4 — Basic Chatbot
+
+A simple rule-based chatbot that responds to predefined user messages.
+
+### Features
+
+- Greeting detection
+- Common conversation support
+- Multiple predefined responses
+- Exit command
+- Beginner-friendly implementation
+
+### Concepts Used
+
+- Functions
+- Loops
+- Conditional Statements
+- User Input / Output
+- String Methods
+- any() Function
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3.14.6
+- Visual Studio Code 1.131.0
+- Git
+- GitHub
+
+---
+
+# 🧠 Skills Learned
+
+Throughout this internship, I improved my understanding of:
+
+- ✅ Python Programming
+- ✅ File Handling
+- ✅ Automation
+- ✅ Regular Expressions (Regex)
+- ✅ HTTP Requests
+- ✅ Functions
+- ✅ Loops
+- ✅ Dictionaries
+- ✅ String Manipulation
+- ✅ User Input & Output
+- ✅ Problem Solving
+- ✅ Git & GitHub
+- ✅ Clean Code Practices
+
+---
+
+# 🎯 Learning Outcomes
+
+This internship allowed me to:
+
+- Develop practical Python applications.
+- Improve programming logic and debugging skills.
+- Learn software development best practices.
+- Gain experience using Git and GitHub for version control.
+- Build clean, modular, and well-documented Python projects.
+
+---
+
+# 🚀 Future Goals
+
+This internship strengthened my Python fundamentals and motivated me to continue building larger software projects.
+
+My next learning goals include:
+
+- 🤖 Artificial Intelligence
+- 🧠 AI Assistants & AI Agents
+- 🛡️ Cybersecurity
+- 🌐 API Development
+- 📊 Data Analysis
+- 🖥 Desktop GUI Applications
+- ⚙️ Advanced Automation Tools
+
+---
+
+# ⭐ Support
+
+If you found these projects useful:
 
 ⭐ Star this repository
 
 🍴 Fork the repository
 
-💬 Share your suggestions or feedback
+💬 Share your suggestions and feedback
 
 ---
 
-**Thank you for visiting my CodeAlpha Internship repository!**
+# 📬 Connect With Me
 
-```
-```
+**Muhammad Ali Haider**
+
+GitHub: https://github.com/hafizalihaider
+
+---
+
+# 🙏 Acknowledgement
+
+A sincere thanks to **CodeAlpha** for providing this internship opportunity and helping me strengthen my Python programming skills through practical projects.
+
+---
+
+# 📅 Internship Status
+
+✅ **Completed Successfully**
