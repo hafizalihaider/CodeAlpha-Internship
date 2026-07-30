@@ -1,0 +1,15 @@
+============================================================
+                  CREATED BY
+============================================================
+
+Name      : Hafiz Muhammad Ali Haider
+Language  : Python
+Project   : JPG File Organizer
+
+This project was designed and developed by
+Hafiz Muhammad Ali Haider for learning and
+demonstrating Python automation.
+
+Thank you for viewing this project.
+
+============================================================

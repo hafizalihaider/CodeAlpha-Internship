@@ -1,0 +1,17 @@
+======================================================================
+                       Email Extraction Report                        
+======================================================================
+
+Extracted Email Addresses:
+
+alihaider@gmail.com
+team@yahoo.com
+support_help@outlook.com
+office@hotmail.com
+ahmed@company.org
+services@university.edu
+contact_us@service.net
+
+======================================================================
+                            End of Report                             
+======================================================================
