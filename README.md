@@ -258,4 +258,8 @@ A sincere thanks to **CodeAlpha** for providing this internship opportunity and 
 
 # 📅 Internship Status
 
+<<<<<<< HEAD
 ✅ **Completed Successfully**
+=======
+✅ **Completed Successfully**
+>>>>>>> aefc2f7c5a0c4a6c555f06b1b9115337647c29a6

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello Everyone,
 
 I hope you are doing well.
@@ -37,4 +38,45 @@ Machine Learning
 1234567890
 No email on this line.
 
+=======
+Hello Everyone,
+
+I hope you are doing well.
+
+For any project-related queries, please contact:
+alihaider@gmail.com
+
+Our HR representative can be reached at:
+hr.team@yahoo.com
+
+Technical support:
+support_help@outlook.com
+
+Sales Department:
+sales.office@hotmail.com
+
+You can also contact our manager:
+muhammad.ahmed@company.org
+
+Student Affairs:
+student.services@university.edu
+
+General Inquiries:
+contact_us@service.net
+
+Our office is open from Monday to Friday.
+
+Phone: +44 7123 456789
+
+Website:
+www.example.com
+
+Random Text:
+Python Programming
+Artificial Intelligence
+Machine Learning
+1234567890
+No email on this line.
+
+>>>>>>> aefc2f7c5a0c4a6c555f06b1b9115337647c29a6
 Thank you!
